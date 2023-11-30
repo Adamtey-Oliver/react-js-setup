@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App{
+  text-align: center;
+}
+.App button:hover{
+  color: rgb(236, 158, 56);
+}
+.Oliver{
+  text-align: center;
+}
